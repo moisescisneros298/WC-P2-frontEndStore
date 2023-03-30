@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+:root {
+    --primario: #9c27b0;
+    --primarioOscuro: #89119d;
+    --secundario: #ffce00;
+    --secundarioOscuro: rgb(233,287,2);
+    --blanco: #fff;
+    --negro: #000;
+
+    --fuentePrincipal: 'Staatliches', cursive;;
+    
+}
